@@ -13,7 +13,7 @@ This project requires **Python 3** and the **Scapy** library.
 
 1. **Clone the project**
    ```bash
-   git clone [https://github.com/obi-ijeomah/automated-network-scanner.git](https://github.com/obi-ijeomah/automated-network-scanner.git)
+   git clone [https://github.com/obi-ijeomah/network-scanner.git](https://github.com/obi-ijeomah/network-scanner.git)
 
 2. **Install Scapy**
 Run the following command in your terminal: `pip install scapy`
