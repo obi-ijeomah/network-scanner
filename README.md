@@ -20,7 +20,7 @@ Run the following command in your terminal: `pip install scapy`
 
 3. **Start the scanner**
 Open your terminal (Bash or PowerShell) in the project folder and run the script:
-`python automated_network_scanner.py`
+`python network_scanner.py`
 
 ## Using The Interface
 1. Enter a single IP address (e.g., 203.0.113.42).
